@@ -1,2 +1,2 @@
 # Hello-World
-Repositório de aprendizagem
+Repositório de aprendizado
