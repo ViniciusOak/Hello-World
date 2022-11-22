@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Vinícius Oak</h1>
 <h3 align="center">Atualmente aprendendo sobre desenvolvimento web</h3>
 
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex001/index.html"> Hello World!</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex002/index.html"> Paragraphs</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex003/index.html"> Images</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex004/index.html"> FavIcons</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex005/index.html"> HTML Headings</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex007/index.html"> Text Formatting</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex008/index.html"> Quotation and Citation Elements</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex009/index.html"> Lists</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex010/index.html"> External links and Downloads </a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex011/index.html"> Responsive Images </a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex001/index.html"> Hello World!</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex002/index.html"> Paragraphs</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex003/index.html"> Images</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex004/index.html"> FavIcons</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex005/index.html"> HTML Headings</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex007/index.html"> Text Formatting</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex008/index.html"> Quotation and Citation Elements</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex009/index.html"> Lists</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex010/index.html"> External links and Downloads </a>
+<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex011/index.html"> Responsive Images </a>
 
 <br>
   
