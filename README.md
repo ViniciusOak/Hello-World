@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Vinícius Oak</h1>
 <h3 align="center">Atualmente aprendendo sobre desenvolvimento web</h3>
 
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex001/index.html"> Um HTML simples</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex002/index.html"> Parágrafos, quebras e emojis</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex003/index.html"> Inserindo imagens simples</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex004/index.html"> Utilizando favicons</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex005/index.html"> Hierarquia de títulos</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex007/index.html"> Formatações de textos em HTML5</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex008/index.html"> Formatações de códigos, citações e abreviações</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex009/index.html"> Listas em HTML5</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex010/index.html"> Links internos, externos e de downloads</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex011/index.html"> Imagens dinâmicas e áudio</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Starting/ex012/index.html"> Vídeos em HTML5</a>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex001/index.html"> Um HTML simples</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex002/index.html"> Parágrafos, quebras e emojis</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex003/index.html"> Inserindo imagens simples</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex004/index.html"> Utilizando favicons</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex005/index.html"> Hierarquia de títulos</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex007/index.html"> Formatações de textos em HTML5</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex008/index.html"> Formatações de códigos, citações e abreviações</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex009/index.html"> Listas em HTML5</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex010/index.html"> Links internos, externos e de downloads</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex011/index.html"> Imagens dinâmicas e áudio</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex012/index.html"> Vídeos em HTML5</a></li>
 <br>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viniciusoak&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusoak" /> </p>
