@@ -2,7 +2,7 @@
 <h3 align="center">Atualmente aprendendo sobre desenvolvimento web</h3>
 
 <p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex001/index.html"> Hello World!</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex002/index.html"> HTML Paragraphs</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex002/index.html"> Paragraphs</a>
 <p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex003/index.html"> Images</a>
 <p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex004/index.html"> FavIcons</a>
 <p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex005/index.html"> HTML Headings</a>
