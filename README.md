@@ -3,8 +3,8 @@
 
 <p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex001/index.html"> Hello World!</a>
 <p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex002/index.html"> HTML Paragraphs</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex003/index.html"> Third exercise</a>
-<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex004/index.html"> Fourth exercise</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex003/index.html"> Images</a>
+<p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex004/index.html"> FavIcons</a>
 <p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex005/index.html"> HTML Headings</a>
 <p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex007/index.html"> Sixth exercise</a>
 <p align="center"> <a href="https://viniciusoak.github.io/Hello-World/ex008/index.html"> Seventh exercise</a>
