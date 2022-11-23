@@ -18,10 +18,12 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viniciusoak&label=Page%20views&color=0e75b6&style=flat" alt="viniciusoak" /> </p>
 <br>
-<p align="center"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="100" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="100" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JS" width="100" height="100"/>
+
+<div align="center" style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
           
           
 <img src= "https://capsule-render.vercel.app/api?type=waving&color=100:3cffda,0:7154af&section=footer" width=150% />
