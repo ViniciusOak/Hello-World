@@ -15,9 +15,8 @@
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex012/index.html"> Vídeos em HTML5</a></li>
 <br>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=viniciusoak&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusoak" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=viniciusoak&label=Page%20views&color=0e75b6&style=flat" alt="viniciusoak" /> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ViniciusOak.viniciusoak) 
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
