@@ -1,4 +1,4 @@
-<img width=150% src= "https://capsule-render.vercel.app/api?type=waving&color=0:3cffda,100:7154af">
+<img src= "https://capsule-render.vercel.app/api?type=waving&color=0:3cffda,100:7154af" width=150% />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Vin%C3%ADcius+Oak;I'm+studying+web+development;Be+Welcome!+:%29)
 
@@ -13,18 +13,17 @@
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex010/index.html"> Links internos, externos e de downloads</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex011/index.html"> Imagens dinâmicas e áudio</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex012/index.html"> Vídeos em HTML5</a></li>
-<br>
+
   
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viniciusoak&label=Page%20views&color=0e75b6&style=flat" alt="viniciusoak" /> </p>
-
-
-<h3 align="center">Languages and Tools:</h3>
+<br>
 <p align="center"> 
-<a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"> </a>
-
-<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="external"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-</p>
-
-  <img width=150% src= "https://capsule-render.vercel.app/api?type=waving&color=100:3cffda,0:7154af&section=footer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JS" width="100" height="100"/>
+          
+          
+<img src= "https://capsule-render.vercel.app/api?type=waving&color=100:3cffda,0:7154af&section=footer" width=150% />
 
 
