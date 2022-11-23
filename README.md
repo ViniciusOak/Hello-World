@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Vinícius Oak</h1>
+<img width=150% src= "https://capsule-render.vercel.app/api?type=waving&color=0:3cffda,100:7154af">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Vin%C3%ADcius+Oak;I'm+studying+web+development;Be+Welcome!+:%29)
+
+
+
 <h3 align="center">Atualmente aprendendo sobre desenvolvimento web</h3>
 
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex001/index.html"> Um HTML simples</a></li>
