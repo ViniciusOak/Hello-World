@@ -20,7 +20,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<a href="" target="_blank" rel="external"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="css3" width="40" height="40"/> </a>
+<a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"> </a>
+
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="external"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
