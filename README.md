@@ -2,10 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Vin%C3%ADcius+Oak;I'm+studying+web+development;Be+Welcome!+:%29)
 
-
-
-<h3 align="center">Atualmente aprendendo sobre desenvolvimento web</h3>
-
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex001/index.html"> Um HTML simples</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex002/index.html"> Parágrafos, quebras e emojis</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex003/index.html"> Inserindo imagens simples</a></li>
@@ -27,5 +23,6 @@
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="external"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
+  <img width=150% src= "https://capsule-render.vercel.app/api?type=waving&color=100:3cffda,0:7154af&section=footer">
 
 
