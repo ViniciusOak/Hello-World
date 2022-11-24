@@ -13,8 +13,10 @@
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex010/index.html"> Links internos, externos e de downloads</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex011/index.html"> Imagens dinâmicas e áudio</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex012/index.html"> Vídeos em HTML5</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex013/index.html"> Estilos CSS Inline</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex014/index.html"> Estilos CSS internos</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex015/index.html"> Estilos CSS externos</a></li>
 
-  
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viniciusoak&label=Page%20views&color=0e75b6&style=flat" alt="viniciusoak" /> </p>
 <br>
