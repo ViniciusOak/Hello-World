@@ -1,4 +1,4 @@
-<img  src="https://capsule-render.vercel.app/api?type=waving&color=0:3cffda,100:7154af" width=150% alt="img1">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3cffda,100:7154af" width=150% alt="img1">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Vin%C3%ADcius+Oak;I'm+studying+web+development;Be+Welcome!+:%29)
 
@@ -30,6 +30,6 @@
 </div>
           
           
-<img src= "https://capsule-render.vercel.app/api?type=waving&color=100:3cffda,0:7154af&section=footer" width=150% />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:3cffda,0:7154af&section=footer" width=150% >
 
 
