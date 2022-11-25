@@ -16,7 +16,7 @@
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex013/index.html"> Estilos CSS Inline</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex014/index.html"> Estilos CSS internos</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex015/index.html"> Estilos CSS externos</a></li>
-<p> <li><a href="https://viniciusoak.github.io/Starting/ex016/index.html"> Cores</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex016/cor01.html"> Cores</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex017/index.html"> Fontes</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex018/index.html"> Fontes externas</a></li>
 <br>
