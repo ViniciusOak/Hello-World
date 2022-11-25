@@ -17,8 +17,8 @@
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex014/index.html"> Estilos CSS internos</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex015/index.html"> Estilos CSS externos</a></li>
 <p> <li><a href="https://viniciusoak.github.io/Starting/ex016/cor01.html"> Cores</a></li>
-<p> <li><a href="https://viniciusoak.github.io/Starting/ex017/index.html"> Fontes</a></li>
-<p> <li><a href="https://viniciusoak.github.io/Starting/ex018/index.html"> Fontes externas</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex017/fontes01.html"> Fontes</a></li>
+<p> <li><a href="https://viniciusoak.github.io/Starting/ex018/fonte01.html"> Fontes externas</a></li>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viniciusoak&label=Page%20views&color=0e75b6&style=flat" alt="viniciusoak" /> </p>
 <br>
